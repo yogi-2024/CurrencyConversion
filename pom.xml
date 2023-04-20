@@ -14,8 +14,14 @@
 	<name>CliendApplication</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>17</java.
+ 
+ 
+//this is dne by QA department
+
+
 //this changes by devloper
+
 	</properties>
 	<dependencies>
 		<dependency>
